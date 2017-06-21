@@ -13,7 +13,7 @@ body {
 .text-primary {
   color: #fed136;
 }
-p { 
+p {
   font-size: 14px;
   line-height: 1.75;
 }
@@ -221,11 +221,11 @@ fieldset[disabled] .btn-xl.active {
     background-color: blue;
     flex-wrap: wrap;
     align-items:stretch;
-    
 
-}    
+
+}
  .flex-item-1 {
-    flex:0 0 auto; 
+    flex:0 0 auto;
     background-color: #004062;
     width:100%;
     height: 400px;
@@ -247,7 +247,7 @@ fieldset[disabled] .btn-xl.active {
 }
  .flex-item-2 {
      flex:1 0 50%;
-    background-color: #411E2A; 
+    background-color: #411E2A;
     text-align: center;
     padding:25px 25px 25px 25px;
     color:white;
@@ -600,7 +600,7 @@ flex-direction:row;
 
 }
 .leadership{
-  background-color: #411E2A; 
+  background-color: #411E2A;
   text-align: center;
   padding:25px 25px 25px 25px;
   color:white;
@@ -851,7 +851,7 @@ experiment
     background-image: url('../img/parallax.jpg');
 
     /* Full height */
-    height: 100%; 
+    height: 100%;
 
     /* Create the parallax scrolling effect */
     background-attachment: fixed;
@@ -879,13 +879,13 @@ button.accordion {
     color: #444;
     cursor: pointer;
     padding: 18px;
-    
+
     border: none;
     text-align: left;
     outline: none;
     font-size: 15px;
     transition: 0.4s;
-    
+
 }
 
 button.accordion.active, button.accordion:hover {
@@ -913,12 +913,12 @@ div.panel {
     overflow: hidden;
     transition: 0.6s ease-in-out;
     opacity: 0;
-    
+
 }
 
 div.panel.show {
     opacity: 1;
-    max-height: 500px;  
+    max-height: 500px;
 }
 .faq-flex-container{
   display: -webkit-flex;
@@ -928,7 +928,7 @@ div.panel.show {
   display: -ms-flexbox;      /* TWEENER - IE 10 */
   -webkit-flex-wrap: wrap;
   flex-wrap: wrap;
-  
+
   -ms-flexbox-flex:wrap;
     width: 90%;
     height: 100%;
@@ -962,3 +962,23 @@ div.panel.show {
 
   }
 }
+.imgcc{
+  width:270px;
+  height:350px;
+}
+.TMlogo{
+  font-weight: bold;
+  font-family: "Montserrat", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-size: 150%
+}
+.bolding{
+  font-weight:bold
+}
+.aboutsec1{
+  background-color: #004062;
+  content-align:center;
+  padding:30px 50px;
+  color:white;
+  margin:0;
+  width:100%;}
+  
