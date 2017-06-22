@@ -969,7 +969,7 @@ div.panel.show {
 .TMlogo{
   font-weight: bold;
   font-family: "Montserrat", "Helvetica Neue", Helvetica, Arial, sans-serif;
-  font-size: 150%
+  font-size: 120%;
 }
 .bolding{
   font-weight:bold
@@ -981,4 +981,25 @@ div.panel.show {
   color:white;
   margin:0;
   width:100%;}
-  
+
+  .backntext{
+    background-color: #004062;
+    text-align: center;
+    color:white;
+  }
+  .backgroundc{
+    background-color: #004062;
+  }
+  .textwhite{
+    color:white;
+    padding-bottom: 30px
+  }
+  @media (max-width: 767px) {
+    h1#timeframe{
+      font-size:30px;
+    }
+@media (max-width: 767px) {
+  h1.aboutsec{
+    font-size: 30px;
+  }
+}
